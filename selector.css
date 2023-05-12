@@ -1,0 +1,55 @@
+*
+{
+	background-color:rgb(230,222,154);
+}
+h1
+{
+	text-align:center;
+	color:red;
+}
+li
+{
+	color:orange;
+	font-size:20px;
+}
+h2
+{
+	color:yellow;
+}
+p
+{
+	text-align:center;
+	color:blue;
+}
+h3
+{
+	color:green;
+}
+#logic
+{
+	text-align:right;
+	font-size:20px;
+	color:blue;
+}
+.enjoy
+{
+	text-align:left;
+	font-size:20px;
+	color:blue;
+}
+.J
+{
+	background-color:pink;
+}
+.p > p
+{
+	background-color:pink;
+}
+.g + p , .s + p
+{
+	background-color:pink;
+}
+.k ~ p
+{
+	background-color:pink;
+}
